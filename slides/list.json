@@ -1,1 +1,17 @@
-["index.md"]
+["index.md",
+  "overview.md",
+  ["elements.md",
+  "elements/north_arrow.md",
+  "elements/legend.md",
+  "elements/scale.md"
+  ],
+  [
+  "types/types.md",
+  "types/choro.md",
+  "types/symbols.md",
+  "types/carto.md",
+  "types/topo.md",
+  "types/reference.md" 
+  ],
+  "references.md"
+  ]
